@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor link](https://www.frontendmentor.io/solutions/simple-and-flawed-html-and-css-implementation-of-qr-code-challenge-Y_NjLSwGzt)
 - Live Site URL: [Github Pages](https://shiguita.github.io/FM-QR_Component/)
 
 ## My process
 
-This challenge consisted mostly of CSS styling in order to get the html to look as desired. At first I organised the content in all the `<divs>` I thought neccesary and proceeded to write the CSS. I did try different approaches to centering the element to try and understand each method.
+This challenge consisted mostly of CSS styling in order to get the html to look as desired. At first I organised the content in all the `<divs>` I thought necessary and proceeded to write the CSS. I did try different approaches to centering the element to try and understand each method.
 
 ### Built with
 
